@@ -1,6 +1,6 @@
 # Project 2 - *Twitter Lite*
 
-**Twitter Lite (Simple Tweet)** is an android app that allows a user to view and interract his/her Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Twitter Lite (Simple Tweet)** is an android app that allows a user to tweet, view and interract his/her Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 # Twitter Lite - *Part/ Update 2*
 
